@@ -1,0 +1,4 @@
+xbbg==0.7.7
+pyodbc==5.0.1
+blpapi==3.23.1
+openpyxl==3.1.2
